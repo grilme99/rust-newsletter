@@ -1,0 +1,2 @@
+# Rust Newsletter
+This is my adventure into the world of backend development in Rust, following the [zero2prod](https://zero2prod.com) book. Nothing here is a serious project and is just me dipping my toes in.
